@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mybatis -->
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.kite.gz.board.dao.BoardDao">
+
+	<!-- //////////////삽입/////////////// -->
+	<insert id="insertBoard" parameterType="com.kite.gz.board.domain.BoardVo" useGeneratedKeys="true" keyProperty="idx">
+
+		insert into gamebook (writer, title, content, gphoto, gpw, regdate) values(#{writer}, #{title}, #{content}, #{gphoto}, #{gpw}, now())
+		
+	</insert>
+
+
+	<!-- 컬럼값과 domain의 필드명이 다를때 설정해줘야 됨. -->
+	<resultMap type="com.kite.gz.board.domain.BoardEditVo" id="BoardPost">
+		<id property="idx" column="idx" />
+		<result property="writer" column="writer" />
+		<result property="title" column="title" />
+		<result property="content" column="content" />
+		<result property="gpw" column="gpw" />
+		<result property="gphoto" column="gphoto" />
+		<result property="regdate" column="regdate" />
+	</resultMap>
+	
+	
+		<!-- 컬럼값과 domain의 필드명이 다를때 설정해줘야 됨. -->
+	<resultMap type="com.kite.gz.board.domain.BoardPasswordVo" id="BoardPwSelect">
+		<id property="idx" column="idx" />
+		<result property="writer" column="writer" />
+		<result property="title" column="title" />
+		<result property="content" column="content" />
+		<result property="gpw" column="gpw" />
+		<result property="gphoto" column="gphoto" />
+		<result property="regdate" column="regdate" />
+	</resultMap>
+	
+			<!-- 컬럼값과 domain의 필드명이 다를때 설정해줘야 됨. -->
+	<resultMap type="com.kite.gz.board.domain.BoardDetailViewVo" id="DetailView">
+		<id property="idx" column="idx" />
+		<result property="writer" column="writer" />
+		<result property="title" column="title" />
+		<result property="content" column="content" />
+		<result property="gpw" column="gpw" />
+		<result property="gphoto" column="gphoto" />
+		<result property="regdate" column="regdate" />
+	</resultMap>
+
+
+			<!-- 컬럼값과 domain의 필드명이 다를때 설정해줘야 됨. -->
+	<resultMap type="com.kite.gz.board.domain.BoardYoutubeSearchVo" id="YotubeSearchResult">
+		<id property="idx" column="idx" />
+		<result property="title" column="title" />
+		<result property="channelTitle" column="channelTitle" />
+		<result property="regdate" column="regdate" />
+	</resultMap>
+
+
+
+	<!-- //////////////조회/////////////// -->
+	<!-- 조회: 페이지의 게시글 리스트를 보여줄 때, 페이징 하는 조회 -->
+	<!-- startRow(시작하는 번호), count(보여질 개수)가 들어오는데, 이 데이터들의 값의 순서를 알 수 없기 때문에 
+		param1, param2라고 한 것이다. -->
+	<select id="selectBoardList" resultMap="BoardPost">
+
+		select * from gamebook limit #{param1}, #{param2}
+
+	</select>
+
+	<!-- 조회: 전체 행의 갯수를 가져오는 조회 -->
+	<!-- integer의 별칭: int -->
+	<select id="selectCount" resultType="int">
+
+		select count(*) from gamebook
+
+	</select>
+
+	<!--조회: idx값을 전달해서 조회 -->
+	<select id="selectBoardByIdx" resultMap="BoardPost">
+
+		select * from gamebook where idx=#{idx}
+
+	</select>
+	
+		<!--조회: idx값을 전달해서 조회 -->
+	<select id="selectBoardByIdx2" resultMap="BoardPwSelect">
+
+		select * from gamebook where idx=#{idx}
+
+	</select>
+	
+		<!--조회: idx값을 전달해서 조회 -->
+		<select id="selectBoardByIdx3" resultMap="DetailView">
+
+		select * from gamebook where idx=#{idx}
+
+	</select>
+	
+	
+		<!--조회: idx값을 전달해서 패스워드와 맞는지 조회 -->
+	<select id="pwcheck" resultMap="BoardPwSelect">
+
+		select * from gamebook where idx=#{idx} and gpw=#{gpw}
+
+	</select>
+	
+
+	<!-- //////////////수정/////////////// -->
+	<!--수정: idx값을 전달해서 수정 -->
+	<update id="editBoard" parameterType="com.kite.gz.board.domain.BoardVo">
+
+		update gamebook set title = #{title}, content=#{content},  editdate = now() where idx=#{idx}
+
+	</update>
+
+<!-- //////////////삭제/////////////// -->
+	<delete id="deleteBoard" parameterType="com.kite.gz.board.domain.BoardVo">
+	
+		delete from gamebook where idx=#{idx}
+		
+	</delete>
+	
+		<!-- //////////////유튜브 타이틀 삽입/////////////// -->
+	<insert id="searchTitleSave" parameterType="com.kite.gz.board.domain.BoardYoutubeVo" useGeneratedKeys="true" keyProperty="idx">
+
+		insert into youtubebook (title, channelTitle, search, regdate) values (#{title}, #{channelTitle}, #{search}, now())
+		
+	</insert>
+	
+	
+		<select id="selectYoutubeList" resultMap="YotubeSearchResult">
+
+		select * from youtubebook limit #{param1}, #{param2}
+
+	</select>
+	
+	
+		<select id="selectYoutubeCount" resultType="int">
+
+		select count(*) from youtubebook
+
+	</select>
+	
+	<!-- restapi를 위한 sql문 -->
+<!-- 	<select id="selectList" parameterType="com.kite.gz.board.domain.BoardVo">
+
+		SELECT * FROM gamebook
+	</select>
+	
+	
+			조회: idx값을 전달해서 조회
+		<select id="selectBoardByIdx4" parameterType="com.kite.gz.board.domain.BoardVo">
+
+		select * from gamebook where idx=#{idx}
+
+	</select>
+	 -->
+</mapper>
