@@ -76,19 +76,39 @@
     <td></td>
   </tr>
     <tr>
-   <td colspan='2'>웹 표준(Web)</td>
+   <td colspan='2'>Client-User Page</td>
+  </tr>
+   <tr>
+   <td align=center>JSP</td>
+   <td align=center>5</td>
   </tr>
   <tr>
-   <td>HTML</td>
-   <td>5</td>
-  </tr>
-  <tr>
-   <td>CSS</td>
-   <td>3</td>
-  </tr>
-  <tr>
-   <td>JavaScript</td>
+   <td align=center>JSTL, EL</td>
    <td></td>
+  </tr>
+  <tr>
+   <td align=center>HTML</td>
+   <td align=center>5</td>
+  </tr>
+  <tr>
+   <td align=center>CSS</td>
+   <td align=center>3</td>
+  </tr>
+  <tr>
+   <td align=center>JavaScript</td>
+   <td align=center></td>
+  </tr>
+   <tr>
+   <td align=center>jQuery</td>
+   <td align=center></td>
+  </tr>
+   <tr>
+   <td align=center>ajax</td>
+   <td align=center></td>
+  </tr>
+   <tr>
+   <td align=center>JSON, XML parsing</td>
+   <td align=center></td>
   </tr>
  </table>
    
