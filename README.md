@@ -123,7 +123,7 @@
    2020.02.27 - Ajax CORB 문제 해결을 위한 수정 <br>
    2020.03.19 - index 화면 버튼 url 수정 <br>
    2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
-   2020.03.28 - KITECH_IoT Repository에서 프로젝트 주제별로 분리<br>
+   2020.03.28 - <a href="https://github.com/jysaa5/KITECH_IoT">KITECH_IoT Repository</a>에서 프로젝트 주제별로 분리<br>
  <br>
  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
   <ul>
