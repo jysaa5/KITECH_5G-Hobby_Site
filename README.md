@@ -128,7 +128,7 @@
  <br>
  <li>구현한 동영상</li>
  <ul>
-  <li><a href="https://youtu.be/9toCpwa_Wxw">동영상: Server + Client User Page</a></li>
+  <li><a href="https://youtu.be/Cq8OrTLO3lY">동영상: Server + Client User Page</a></li>
  </ul>
  <br>
  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
