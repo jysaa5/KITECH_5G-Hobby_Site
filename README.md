@@ -17,7 +17,7 @@
 <ul>
  <li><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/gz/">AWS로 배포된 사이트</a><br></li>
  <li>프로젝트 주제: Spring Framework를 이용한 웹 구현 & Open API 사용 <br></li>
- <li>프로젝트 기간: 2020.01.28~2020.02.02  <br></li>
+ <li>프로젝트 기간: 2020.01.28~2020.02.02 (총 6일)  <br></li>
  <li>팀명: 5G / 팀장: 김주연  <br></li>
  <li>팀원:  <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a><br></li>
  <li>역할: 관심 있는 취미, 주제로 웹 페이지 구현 <br></li>
