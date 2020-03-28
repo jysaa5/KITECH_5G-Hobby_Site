@@ -35,7 +35,7 @@
   </tr>
   </table>
  <li>구현한 기능: Server, Client Program<br></li>
- <li>사용한 기술: Open API, JavaScript, jQuery, ajax, Bootstrap(4.4.1), AWS: EC2, RDS <br></li>
+ <li>사용한 기술</li>
  <table style="text-align:center; margin:auto;">
   <tr>
    <td align=center>언어 & 기술 & 구조</td>
@@ -110,6 +110,10 @@
    <td align=center>JSON, XML parsing</td>
    <td align=center></td>
   </tr>
+   <tr>
+   <td align=center>Bootstrap</td>
+   <td align=center>4.4.1</td>
+  </tr>
   <tr>
    <td colspan='2'>Open API</td>
   </tr>
@@ -131,7 +135,10 @@
 <ul>
   <li>프로젝트 업데이트 History<br></li>
    2020.02.16 - 금융감독원 금융상품, 우리말샘 국어사전  Open API xml parsing to html (Use Ajax)<br>
-   2020.02.27 - Ajax CORB 문제 해결중 <br>
+   2020.02.27 - Ajax CORB 문제 해결을 위한 수정 <br>
    2020.03.19 - index 화면 버튼 url 수정 <br>
-   2020.03.22 - CORS Filter 추가, 게임 게시판 코드 수정 <br>
+   2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
+   2020.03.28 - Repository 정리 <br>
+ <li>Epilogue</li>
+ 프로젝트를 진행하면서 어려웠던 점
 </ul>
