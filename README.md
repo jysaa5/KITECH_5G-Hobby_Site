@@ -20,18 +20,18 @@
  <li>프로젝트 기간: 2020.01.28~2020.02.02  <br></li>
  <li>팀명: 5G / 팀장: 김주연  <br></li>
  <li>팀원:  <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a><br></li>
- <li>역할: 각자 관심 있는 주제로 웹 페이지 구현 <br></li>
+ <li>역할: 관심 있는 취미, 주제로 웹 페이지 구현 <br></li>
  <table style="text-align:center; margin:auto;">
   <tr>
-  <td colspan = "6">
+  <td colspan = "6" align=center>
     주제: 포털사이트
   </td>
   </tr>
   <tr>
-    <td>팀원</td> <td>조지윤</td> <td>정용기</td> <td>박지은</td> <td>조성빈</td> <td>김주연</td>
+    <td align=center>팀원</td> <td align=center>조지윤</td> <td align=center>정용기</td> <td align=center>박지은</td> <td align=center>조성빈</td> <td align=center>김주연</td>
   </tr>
   <tr>
-    <td>소재</td><td>국어사전</td><td>가계부</td><td>금융상품</td><td>컴퓨터 부품 </td><td>게임 추천 게시판&유튜브 검색</td>
+    <td align=center>소재</td><td align=center>국어사전</td><td align=center>가계부</td><td align=center>금융상품</td><td align=center>컴퓨터 부품 </td><td align=center>게임 추천 게시판&유튜브 검색</td>
   </tr>
   </table>
  <li>구현한 기능: Server, Client Program<br></li>
