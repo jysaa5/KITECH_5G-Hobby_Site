@@ -42,6 +42,9 @@
    <td>버전</td>
   </tr>
   <tr>
+   <td colspan='2'>서버(Server)</td>
+  </tr>
+  <tr>
    <td>Java</td>
    <td>8</td>
   </tr>
