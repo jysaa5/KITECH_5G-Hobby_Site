@@ -41,7 +41,6 @@
   </table>
  <br>
  <li>구현한 기능: Server, Client Program<br></li>
- <br>
  <li>사용한 기술</li>
  <table>
   <tr>
