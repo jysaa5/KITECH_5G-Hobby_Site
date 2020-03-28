@@ -118,11 +118,11 @@
    <td></td>
   </tr>
   <tr>
-   <td align=center>금융감독원 금융상품</td>
+   <td align=center><a href="http://finlife.fss.or.kr/PageLink.do?link=guide/summary&menuId=2000117">금융감독원 금융상품</a></td>
    <td></td>
   </tr>
  <tr>
-  <td align=center>Youtube Search API</td>
+  <td align=center><a href="https://developers.google.com/youtube/v3/docs/search?hl=ko">Youtube Search API</a></td>
   <td></td>
   </tr>
  </table>
