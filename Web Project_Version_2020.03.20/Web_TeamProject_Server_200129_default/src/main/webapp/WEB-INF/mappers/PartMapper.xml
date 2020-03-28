@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mybatis -->
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.kite.gz.parts.dao.PartDao">
+
+<resultMap type="com.kite.gz.parts.domain.PartVo" id="partArticle">
+		<result property="idx" column="idx"/>
+		<result property="type" column="type"/>
+		<result property="title" column="title"/>
+		<result property="content" column="content"/>
+		<result property="price" column="price"/>
+		<result property="regdate" column="regdate"/>
+</resultMap>
+	
+	
+	<select id="selectCount" resultType="int">
+	
+		select count(*) from pcinfo
+	
+	</select>
+	
+	<select id="selectpartByIdx" resultMap="partArticle">
+	
+		select * from pcinfo where idx=#{idx}
+		
+	</select>
+	
+
+	<select id="selectArticleList" resultMap="partArticle">
+	
+		select * from pcinfo  limit #{param1}, #{param2}
+	
+	</select>
+	
+	
+	<insert id="insertArticle" parameterType="com.kite.gz.parts.domain.PartWriteRequest" useGeneratedKeys="true" keyProperty="idx">
+		
+		insert into pcinfo (type, title, content, price) values (#{type}, #{title}, #{content}, #{price})
+	
+	</insert>
+	
+	<update id="editArticle" parameterType="com.kite.gz.parts.domain.PartWriteRequest">
+	
+	update pcinfo set  type=#{type}, title=#{title}, content=#{content}, price=#{price} where idx=#{idx}
+	
+	</update>
+	
+	<delete id="deleteArticle">
+	
+		delete from pcinfo where idx=#{idx}
+		
+	</delete>
+	
+	
+	<!-- 실험적 -->
+	<insert id="selectingArticle" parameterType="com.kite.gz.parts.domain.PartSelectRequest" useGeneratedKeys="true" keyProperty="idx">
+	
+		insert into pcselect (idx, type, title, content, price, regdate) values (#{idx}, #{type}, #{title}, #{content}, #{price}, 20200130)
+	
+	</insert>
+	
+	<select id="selectingList" resultMap="partArticle">
+	
+		select * from pcselect  limit #{param1}, #{param2}
+	
+	</select>
+	
+	<delete id="deleteselect">
+	
+		delete from pcselect where idx=#{idx}
+		
+	</delete>
+	
+	<delete id="deleteAll">
+	
+			TRUNCATE TABLE pcselect
+			
+	</delete>
+	
+</mapper>
