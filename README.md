@@ -41,7 +41,7 @@
   </table>
  <br>
  <li>구현한 기능: Server, Client Program<br></li>
- <li>사용한 기술</li>
+ <li>개발 환경(S/W)</li>
  <table>
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
