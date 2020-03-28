@@ -58,17 +58,18 @@
   </tr>
   <tr>
    <td align=center>AWS EC2</td>
+   <td></td>
   </tr>
   <tr>
    <td colspan='2' align=center>데이터베이스(DB)</td>
   </tr>
   <tr>
-   <td>MySQL</td>
-   <td>8.0.18</td>
+   <td align=center>MySQL</td>
+   <td align=center>8.0.18</td>
   </tr>
   <tr>
-    <td>MyBatis</td>
-    <td>3.4.6</td>
+    <td align=center>MyBatis</td>
+    <td align=center>3.4.6</td>
   </tr>
   <tr>
    <td>HTML</td>
