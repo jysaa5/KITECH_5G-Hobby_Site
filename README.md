@@ -2,19 +2,6 @@
 2019.10.01 ~ 2020.03.31 <br>
 한국생산기술연구연 2019년도 출연(연) 4차인재양성사업 하반기 직무 훈련생 김주연(JooYeon Kim)입니다.<br>
 <hr>
-<h3>[직무 훈련 과정]</h3>
-<ul>
- <li> Hardware: Arduino | RaspberryPi <br></li>
- <li> Language: Java | HTML5, CSS3, JavaScript, jQuery, ajax | Python | Kotlin  <br></li>
- <li> Database: Oracle, MySQL, SQLite <br></li>
- <li> Framework: Spring, Spring boot | Mybatis | Flask <br></li>
- <li> Tool: Eclipse | sqldeveloper, MySQL Workbench 8.0 CE | Brackets | Visual Stuido Code | Flask | Android Studio </li>
- <li> Cloud Computing Services: Amazon Web Services(AWS) - EC2, RDS</li>
- <li> Server: Apache HTTP Server | PuTTY </li>
- <li> Web Application Server(WAS): Tomcat </li>
- <li> Operating System(OS): Window | Linux | Raspbian</li>
-</ul>
-<hr>
 <h3><a href="https://github.com/jysaa5/kite_IoT/tree/master/TeamProject_Web/Web_TeamProject_Server_200320"> [팀 프로젝트_Web] </a></h3>
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_Front.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_01.PNG?raw=true" width="50%" height="50%">
@@ -86,13 +73,3 @@
    2020.03.19 - index 화면 버튼 url 수정 <br>
    2020.03.22 - CORS Filter 추가, 게임 게시판 코드 수정 <br>
 </ul>
-<hr>
-<h3><a href="https://github.com/jysaa5/kiet/tree/master/TeamProject_IoT"> [팀 프로젝트_IoT] </a></h3>
-<ul>
-  <li>프로젝트 주제: Smart Home<br></li>
-  <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
-  <li>팀명: 5G / 팀장: 박지은  <br></li>
-  <li>팀원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
-  <li>역할: 각각 센서 연결, 코드 작성 중 <br></li>
-  <li>H/W: RaspberryPi 3
- </ul>
