@@ -30,7 +30,7 @@
  <li>역할: 관심 있는 취미, 주제로 웹 페이지 구현 <br></li>
  <table style="text-align:center; margin:auto;">
   <tr>
-  <td colspan = "6" align=center>프로젝트 주제: 취미 사이트</td>
+  <th colspan = "6" align=center>프로젝트 주제: 취미 사이트</th>
   </tr>
   <tr>
     <td align=center>팀원</td> <td align=center>조지윤</td> <td align=center>정용기</td> <td align=center>박지은</td> <td align=center>조성빈</td> <td align=center>김주연</td>
