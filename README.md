@@ -5,14 +5,17 @@
 ## Team Project: Web Server + Client User Page
 <h3><a href="https://github.com/jysaa5/KITECH_5G-Hobby_Site/tree/master/Server_And_User%20Client%20Page_Version_2020.03.20/Web_TeamProject_Server_200320">[팀 프로젝트_Web] </a></h3>
 <br>
-<h2>처음 Home 화면</h2>
+<h2>홈 화면</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_00.PNG?raw=true" width="90%" height="90%">
-<h4></h4>
+<h2>국어사전</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_01.PNG?raw=true" width="90%" height="90%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_02.PNG?raw=true" width="90%" height="90%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_03.PNG?raw=true" width="90%" height="90%">
+<h2>금융상품</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_04.PNG?raw=true" width="90%" height="90%">
+<h2>컴퓨터 부품 쇼핑</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_05.PNG?raw=true" width="90%" height="90%">
+<h2>유튜브 검색</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_06.PNG?raw=true" width="90%" height="90%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_07.PNG?raw=true" width="90%" height="90%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_08.PNG?raw=true" width="90%" height="90%">
