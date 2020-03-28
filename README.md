@@ -38,11 +38,11 @@
  <li>사용한 기술: Open API, JavaScript, jQuery, ajax, Bootstrap(4.4.1), AWS: EC2, RDS <br></li>
  <table style="text-align:center; margin:auto;">
   <tr>
-   <td>언어 & 기술 & 구조</td>
-   <td>버전</td>
+   <td align=center>언어 & 기술 & 구조</td>
+   <td align=center>버전</td>
   </tr>
   <tr>
-   <td colspan='2'>서버(Server)</td>
+   <td colspan='2' align=center>서버(Server)</td>
   </tr>
   <tr>
    <td>Java</td>
