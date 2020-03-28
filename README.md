@@ -7,6 +7,10 @@
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_01.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_02.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_03.PNG?raw=true" width="50%" height="50%">
+<img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_04.PNG?raw=true" width="50%" height="50%">
+<img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_05.PNG?raw=true" width="50%" height="50%">
+<img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_06.PNG?raw=true" width="50%" height="50%">
+<img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_07.PNG?raw=true" width="50%" height="50%">
 <br>
 <ul>
  <li><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/gz/">AWS로 배포된 사이트</a><br></li>
