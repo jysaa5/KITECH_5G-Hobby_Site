@@ -46,7 +46,7 @@
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
   <tr>
-   <th colspan='2'>서버(Server)</th>
+   <th colspan='2' bgcolor='yellow'>서버(Server)</th>
   </tr>
   <tr>
    <td align=center>Java</td> <td align=center>8</td>
