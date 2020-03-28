@@ -130,7 +130,7 @@
   <ul>
    <li>개발 시간 부족</li>
    <li>팀원들과 아이디어를 통합하는 것</li>
-   <li>Open API의 데이터마다 다른 구조를 갖고 있어서 JSON, XML 파싱할때 구조 파악이 쉽지 않음</li>
+   <li>Open API의 구조가 각기 달라서 JSON, XML 파싱할때, 구조 파악이 쉽지 않았음</li>
    <li>CORB 문제 발생</li>
   </ul>
 </ul>
