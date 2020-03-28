@@ -139,6 +139,10 @@
    2020.03.19 - index 화면 버튼 url 수정 <br>
    2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
    2020.03.28 - Repository 정리 <br>
- <li>Epilogue</li>
- 프로젝트를 진행하면서 어려웠던 점
+ <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
+  <ul>
+   <li>개발 시간 부족</li>
+   <li>팀원들과 아이디어를 통합하는 것</li>
+   <li>Open API를 사용할 때, CORB 문제 발생</li>
+  </ul>
 </ul>
