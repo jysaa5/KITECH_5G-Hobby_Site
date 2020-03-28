@@ -41,7 +41,7 @@
   </table>
  <li>구현한 기능: Server, Client Program<br></li>
  <li>사용한 기술</li>
- <table  border="1" bordercolor="blue" width ="500" height="300" align = "center" >
+ <table  border="1" bordercolor="#00BFFF" >
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
