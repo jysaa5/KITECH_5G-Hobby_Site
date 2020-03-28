@@ -24,7 +24,7 @@
  <table style="text-align:center; margin:auto;">
   <tr>
   <td colspan = "6" align=center>
-    주제: 포털사이트
+    주제: 취미 사이트
   </td>
   </tr>
   <tr>
@@ -51,6 +51,13 @@
   <tr>
    <td>Spring Framework</td>
    <td>4.3.18</td>
+  </tr>
+  <tr>
+  <td>Apache Tomcat</td>
+  <td>8.5.49</td>
+  </tr>
+  <tr>
+   <td colspan='2' align=center>데이터베이스(DB)</td>
   </tr>
   <tr>
    <td>MySQL</td>
