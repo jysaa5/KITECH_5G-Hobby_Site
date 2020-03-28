@@ -57,7 +57,7 @@
   <td align=center>8.5.49</td>
   </tr>
   <tr>
-   <td colspan='2' align=center>AWS EC2</td>
+   <td align=center>AWS EC2</td>
   </tr>
   <tr>
    <td colspan='2' align=center>데이터베이스(DB)</td>
