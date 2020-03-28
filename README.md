@@ -2,8 +2,8 @@
 2019.10.01 ~ 2020.03.31 <br>
 한국생산기술연구연 2019년도 출연(연) 4차인재양성사업 하반기 직무 훈련생 김주연(JooYeon Kim)입니다.<br>
 <hr>
-<h3><a href="https://github.com/jysaa5/kite_IoT/tree/master/TeamProject_Web/Web_TeamProject_Server_200320"> [팀 프로젝트_Web] </a></h3>
-<img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_Front.PNG?raw=true" width="50%" height="50%">
+<h3><a href="https://github.com/jysaa5/KITECH_5G-Hobby_Site/tree/master/Server_And_User%20Client%20Page_Version_2020.03.20/Web_TeamProject_Server_200320"> [팀 프로젝트_Web] </a></h3>
+<img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_Front.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_01.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_02.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_05.PNG?raw=true" width="50%" height="50%">
