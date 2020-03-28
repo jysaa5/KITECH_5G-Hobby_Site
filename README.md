@@ -3,9 +3,9 @@
 한국생산기술연구연 2019년도 출연(연) 4차인재양성사업 하반기 직무 훈련생 김주연(JooYeon Kim)입니다.<br>
 이 공간은 Web Project Repository입니다. <br><br>
 ## Team Project: Web Server + Client User Page
-<h2><a href="https://github.com/jysaa5/KITECH_5G-Hobby_Site/tree/master/Server_And_User%20Client%20Page_Version_2020.03.20/Web_TeamProject_Server_200320">[팀 프로젝트_Web] </a></h2>
+<h3><a href="https://github.com/jysaa5/KITECH_5G-Hobby_Site/tree/master/Server_And_User%20Client%20Page_Version_2020.03.20/Web_TeamProject_Server_200320">[팀 프로젝트_Web] </a></h3>
 <br>
-<첫 화면>
+<h2><첫 화면></h2>
 <br>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_00.PNG?raw=true" width="90%" height="90%">
 <h4></h4>
