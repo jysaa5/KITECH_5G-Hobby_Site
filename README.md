@@ -114,11 +114,12 @@
    <td colspan='2'>Open API</td>
   </tr>
   <tr>
-  <td align=center>우리말샘 국어사전</td>
+  <td align=center><a href="https://opendict.korean.go.kr/service/openApiInfo">우리말샘 국어사전</a></td>
    <td></td>
   </tr>
   <tr>
    <td align=center>금융감독원 금융상품</td>
+   <td></td>
   </tr>
  <tr>
   <td align=center>Youtube Search API</td>
