@@ -103,12 +103,26 @@
    <td align=center></td>
   </tr>
    <tr>
-   <td align=center>ajax</td>
+   <td align=center>Ajax</td>
    <td align=center></td>
   </tr>
    <tr>
    <td align=center>JSON, XML parsing</td>
    <td align=center></td>
+  </tr>
+  <tr>
+   <td colspan='2'>Open API</td>
+  </tr>
+  <tr>
+  <td align=center>우리말샘 국어사전</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td align=center>금융감독원 금융상품</td>
+  </tr>
+ <tr>
+  <td align=center>Youtube Search API</td>
+  <td></td>
   </tr>
  </table>
    
