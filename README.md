@@ -42,7 +42,7 @@
    <td align=center>버전</td>
   </tr>
   <tr>
-   <td colspan='2' align=center>서버(Server)</td>
+   <td colspan='2'>서버(Server)</td>
   </tr>
   <tr>
    <td align=center>Java</td>
@@ -61,7 +61,7 @@
    <td></td>
   </tr>
   <tr>
-   <td colspan='2' align=center>데이터베이스(DB)</td>
+   <td colspan='2'>데이터베이스(DB)</td>
   </tr>
   <tr>
    <td align=center>MySQL</td>
@@ -70,6 +70,13 @@
   <tr>
     <td align=center>MyBatis</td>
     <td align=center>3.4.6</td>
+  </tr>
+    <tr>
+    <td align=center>AWS RDS</td>
+    <td></td>
+  </tr>
+    <tr>
+   <td colspan='2'>웹 표준(Web)</td>
   </tr>
   <tr>
    <td>HTML</td>
