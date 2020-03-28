@@ -43,10 +43,10 @@
  <li>사용한 기술</li>
  <table style="text-align:center; margin:auto;">
   <tr>
-   <td align=center>언어 & 기술 & 구조</td> <td align=center>버전</td>
+   <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
   <tr>
-   <td colspan='2'>서버(Server)</td>
+   <th colspan='2'>서버(Server)</th>
   </tr>
   <tr>
    <td align=center>Java</td> <td align=center>8</td>
@@ -61,7 +61,7 @@
    <td align=center>AWS EC2</td> <td></td>
   </tr>
   <tr>
-   <td colspan='2'>데이터베이스(DB)</td>
+   <th colspan='2'>데이터베이스(DB)</th>
   </tr>
   <tr>
    <td align=center>MySQL</td> <td align=center>8.0.18</td>
@@ -73,7 +73,7 @@
     <td align=center>AWS RDS</td> <td></td>
   </tr>
     <tr>
-   <td colspan='2'>Client-User Page</td>
+   <th colspan='2'>Client-User Page</hd>
   </tr>
    <tr>
     <td align=center>JSP</td> <td></td>
@@ -103,7 +103,7 @@
    <td align=center>Bootstrap</td> <td align=center>4.4.1</td>
   </tr>
   <tr>
-   <td colspan='2'>Open API</td>
+   <th colspan='2'>Open API</th>
   </tr>
   <tr>
   <td align=center><a href="https://opendict.korean.go.kr/service/openApiInfo">우리말샘 국어사전</a></td> <td></td>
@@ -123,7 +123,7 @@
    2020.02.27 - Ajax CORB 문제 해결을 위한 수정 <br>
    2020.03.19 - index 화면 버튼 url 수정 <br>
    2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
-   2020.03.28 - KITECH_IOT Repository에서 프로젝트 주제별로 분리<br>
+   2020.03.28 - KITECH_IoT Repository에서 프로젝트 주제별로 분리<br>
  <br>
  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
   <ul>
