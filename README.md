@@ -126,6 +126,11 @@
    2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
    2020.03.28 - <a href="https://github.com/jysaa5/KITECH_IoT">KITECH_IoT Repository</a>에서 프로젝트 주제별로 분리<br>
  <br>
+ <li>구현한 동영상</li>
+ <ul>
+  <li><a href="https://youtu.be/9toCpwa_Wxw">동영상: Server + Client User Page</a></li>
+ </ul>
+ <br>
  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
   <ul>
    <li>개발 시간 부족</li>
