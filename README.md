@@ -45,16 +45,19 @@
    <td colspan='2' align=center>서버(Server)</td>
   </tr>
   <tr>
-   <td>Java</td>
-   <td>8</td>
+   <td align=center>Java</td>
+   <td align=center>8</td>
   </tr>
   <tr>
-   <td>Spring Framework</td>
-   <td>4.3.18</td>
+   <td align=center>Spring Framework</td>
+   <td align=center>4.3.18</td>
   </tr>
   <tr>
-  <td>Apache Tomcat</td>
-  <td>8.5.49</td>
+  <td align=center>Apache Tomcat</td>
+  <td align=center>8.5.49</td>
+  </tr>
+  <tr>
+   <td colspan='2' align=center>AWS EC2</td>
   </tr>
   <tr>
    <td colspan='2' align=center>데이터베이스(DB)</td>
