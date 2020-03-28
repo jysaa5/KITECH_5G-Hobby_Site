@@ -28,7 +28,7 @@
  <li>팀명: 5G / 팀장: 김주연  <br></li>
  <li>팀원:  <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a><br></li>
  <li>역할: 관심 있는 취미, 주제로 웹 페이지 구현 <br></li>
- <table style="text-align:center; margin:auto;">
+ <table>
   <tr>
   <th colspan = "6" align=center>프로젝트 주제: 취미 사이트</th>
   </tr>
@@ -39,9 +39,11 @@
     <td align=center>소재</td><td align=center>국어사전</td><td align=center>가계부</td><td align=center>금융상품</td><td align=center>컴퓨터 부품 </td><td align=center>게임 추천 게시판&유튜브 검색</td>
   </tr>
   </table>
+ <br>
  <li>구현한 기능: Server, Client Program<br></li>
+ <br>
  <li>사용한 기술</li>
- <table  border="1" bordercolor="#00BFFF" >
+ <table>
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
