@@ -131,6 +131,7 @@
    <li>Open API의 구조가 각기 달라서 JSON, XML 파싱할때, 구조 파악이 쉽지 않았음</li>
    <li>CORB 문제 발생</li>
   </ul>
+ <br>
  <li>프로젝트 업데이트 History<br></li>
    2020.02.16 - 금융감독원 금융상품, 우리말샘 국어사전  Open API xml parsing to html (Use Ajax)<br>
    2020.02.27 - Ajax CORB 문제 해결을 위한 수정 <br>
