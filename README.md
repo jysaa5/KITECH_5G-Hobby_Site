@@ -92,7 +92,7 @@
    <td align=center>JavaScript</td> <td></td>
   </tr>
    <tr>
-   <td align=center>jQuery</td> <td></td>
+   <td align=center>jQuery</td> <td align=center>1.12.1</td>
   </tr>
    <tr>
    <td align=center>Ajax</td> <td></td>
