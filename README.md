@@ -4,7 +4,7 @@
 이 공간은 Web Project Repository입니다. <br><br>
 ## Team Project: Web Server + Client User Page
 <h3><a href="https://github.com/jysaa5/KITECH_5G-Hobby_Site/tree/master/Server_And_User%20Client%20Page_Version_2020.03.20/Web_TeamProject_Server_200320">[Spring 프로젝트] </a></h3>
-<h3><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/gz/">[AWS로 배포된 Client User Page]</a><br></h3>
+<!--<h3><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/gz/">[AWS로 배포된 Client User Page]</a><br></h3>-->
 <br>
 <h2>홈 화면</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Hobby_Site/blob/master/Project_Photo/TeamProject_Web_00.PNG?raw=true" width="90%" height="90%">
