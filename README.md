@@ -119,11 +119,14 @@
    
 </ul>
 <ul>
+ <br>
+ 
  <li>구현한 동영상</li>
  <ul>
   <li><a href="https://youtu.be/c8_AjVpgl9Y">동영상: Server + Client User Page</a></li>
  </ul>
  <br>
+ 
  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
   <ul>
    <li>개발 시간 부족</li>
@@ -132,11 +135,13 @@
    <li>CORB 문제 발생</li>
   </ul>
  <br>
- <li>프로젝트 업데이트 History<br></li>
-   2020.02.16 - 금융감독원 금융상품, 우리말샘 국어사전  Open API xml parsing to html (Use Ajax)<br>
-   2020.02.27 - Ajax CORB 문제 해결을 위한 수정 <br>
-   2020.03.19 - index 화면 버튼 url 수정 <br>
-   2020.03.22 - CORS Filter 추가, 게임 게시판 수정 <br>
-   2020.03.28 - <a href="https://github.com/jysaa5/KITECH_IoT">KITECH_IoT Repository</a>에서 프로젝트 주제별로 분리<br>
- <br>
+ 
+ <li>History: 프로젝트 업데이트 </li>
+ <ul>
+  <li>2020.02.16 - 금융감독원 금융상품, 우리말샘 국어사전  Open API xml parsing to html (Use Ajax)</li>
+  <li>2020.02.27 - Ajax CORB 문제 해결을 위한 수정 </li>
+  <li>2020.03.19 - index 화면 버튼 url 수정 </li>
+  <li>2020.03.22 - CORS Filter 추가, 게임 게시판 수정</li>
+  <li>2020.03.28 - <a href="https://github.com/jysaa5/KITECH_IoT">KITECH_IoT Repository</a>에서 프로젝트 주제별로 분리</li>
+ </ul>
 </ul>
