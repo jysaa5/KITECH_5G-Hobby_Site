@@ -116,14 +116,13 @@
   <td align=center><a href="https://developers.google.com/youtube/v3/docs/search?hl=ko">Youtube Search API</a></td> <td></td>
   </tr>
  </table>
-   
 </ul>
 <ul>
  <br>
  
  <li>구현한 동영상</li>
  <ul>
-  <li><a href="https://youtu.be/c8_AjVpgl9Y">동영상: Server + Client User Page</a></li>
+  <li><a href="https://youtu.be/c8_AjVpgl9Y">유튜브 업로드 동영상: Server + Client User Page</a></li>
  </ul>
  <br>
  
